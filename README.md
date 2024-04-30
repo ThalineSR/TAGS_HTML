@@ -63,6 +63,7 @@
 7. `<embed>` - Define um contêiner para um aplicativo externo ou conteúdo interativo.
 8. `<object>` - Define um objeto incorporado, como um applet Java ou um objeto Flash.
 9. `<canvas>` - Define uma área gráfica para desenho com JavaScript.
+---
 >tags HTML para criar formulários:
 
 1. `<form>` - Define um formulário HTML.
